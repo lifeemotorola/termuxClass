@@ -861,7 +861,7 @@ Made with ❤️ by Emmanuel Suah
 Running on Android, powered by Termux
 ```
 
-[![Star History](https://img.shields.io/github/stars/your-username/termux-masterclass?style=social)](https://github.com/your-username/termux-masterclass)
+[![Star History](https://img.shields.io/github/stars/your-username/termux-masterclass?style=social)](https://github.com/lifeemotorola/termuxClass)
 
 </div>
 ```
