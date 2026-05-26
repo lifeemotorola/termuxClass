@@ -563,11 +563,11 @@ bash termux_tools_masterclass.sh
 #### Script won't run
 ```bash
 # Problem: Permission denied
-./termux_tools_masterclass.sh: Permission denied
+./Class.sh: Permission denied
 
 # Solution:
-chmod +x termux_tools_masterclass.sh
-bash termux_tools_masterclass.sh
+chmod +x Class.sh
+bash Class.sh
 ```
 
 #### Colors not displaying
@@ -648,7 +648,7 @@ termux-info
 bash --version
 
 # Report issues at:
-# https://github.com/your-username/termux-masterclass/issues
+#[https://github.com/lifeemotorola/termuxClass.git/issues]
 ```
 
 ---
@@ -678,7 +678,7 @@ Contributions make this project better for everyone!
 1. **Fork the repository**
    ```bash
    # Fork on GitHub, then clone your fork
-   git clone https://github.com/YOUR-USERNAME/termux-masterclass.git
+   [https://github.com/lifeemotorola/termuxClass.git]
    ```
 
 2. **Create a feature branch**
@@ -689,10 +689,10 @@ Contributions make this project better for everyone!
 3. **Make your changes**
    ```bash
    # Edit the script
-   nano termux_tools_masterclass.sh
+   nano Class.sh
    
    # Test your changes thoroughly
-   bash termux_tools_masterclass.sh
+   bash Class.sh
    ```
 
 4. **Follow the code style**
@@ -709,7 +709,7 @@ Contributions make this project better for everyone!
 
 5. **Commit your changes**
    ```bash
-   git add termux_tools_masterclass.sh
+   git add Class.sh
    git commit -m "feat: add module 13 - Docker in Termux"
    ```
 
@@ -809,8 +809,8 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 *Creator & Lead Instructor*
 
-[![GitHub](https://img.shields.io/badge/GitHub-@EmmanuelSuah-black?style=for-the-badge&logo=github)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:contact@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@EmmanuelSuah-black?style=for-the-badge&logo=github)](https://github.com/lifeemotorola/termuxClass)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mr.suah19@gmail.com)
 
 > *"The terminal is not just a tool — it's a superpower.  
 > This course exists to give that power to everyone."*
